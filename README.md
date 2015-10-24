@@ -27,6 +27,12 @@ describe('Client', function() {
 });
 ```
 
+## Install
+
+``` sh
+npm install koa-mirror
+```
+
 ## License
 
 MIT
